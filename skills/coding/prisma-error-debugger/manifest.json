@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "prisma-error-debugger",
+  "name": "Prisma Error Debugger",
+  "version": "1.0.0",
+  "category": "Coding",
+  "description": "Diagnoses Prisma schema, migration, query, and runtime errors.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Writes files"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

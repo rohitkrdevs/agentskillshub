@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "vercel-deployment-debugger",
+  "name": "Vercel Deployment Debugger",
+  "version": "1.0.0",
+  "category": "Coding",
+  "description": "Investigates failed Vercel builds and runtime deployments methodically.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Calls external APIs"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "tailwind-ui-refiner",
+  "name": "Tailwind UI Refiner",
+  "version": "1.0.0",
+  "category": "Coding",
+  "description": "Turns rough Tailwind interfaces into polished, responsive product UI.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Writes files"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

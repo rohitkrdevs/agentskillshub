@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "github-readme-generator",
+  "name": "GitHub README Generator",
+  "version": "1.0.0",
+  "category": "Coding",
+  "description": "Creates clear, credible README files from the real repository.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Writes files"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

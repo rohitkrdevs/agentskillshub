@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "mcp-tool-planner",
+  "name": "MCP Tool Planner",
+  "version": "1.0.0",
+  "category": "AI Apps",
+  "description": "Plans MCP servers and tools with useful contracts and minimal privileges.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "High-risk action"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

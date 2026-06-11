@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "startup-idea-validator",
+  "name": "Startup Idea Validator",
+  "version": "1.0.0",
+  "category": "Business",
+  "description": "Stress-tests startup ideas against a defined customer and market reality.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Uses browser"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

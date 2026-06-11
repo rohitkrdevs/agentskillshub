@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "cold-email-writer",
+  "name": "Cold Email Writer",
+  "version": "1.0.0",
+  "category": "Marketing",
+  "description": "Creates short, researched outreach emails with a defensible reason to reply.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Uses email/calendar"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

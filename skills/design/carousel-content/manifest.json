@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "carousel-content",
+  "name": "Carousel Content Agent",
+  "version": "1.0.0",
+  "category": "Design",
+  "description": "Plans educational carousels with one clear idea per slide.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

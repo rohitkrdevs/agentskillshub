@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "x-launch-thread",
+  "name": "Twitter/X Launch Thread Agent",
+  "version": "1.0.0",
+  "category": "Marketing",
+  "description": "Turns a product launch into a concise, specific social thread.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

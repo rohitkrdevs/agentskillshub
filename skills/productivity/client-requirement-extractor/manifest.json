@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "client-requirement-extractor",
+  "name": "Client Requirement Extractor",
+  "version": "1.0.0",
+  "category": "Productivity",
+  "description": "Converts messy conversations into decisions, requirements, and open questions.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

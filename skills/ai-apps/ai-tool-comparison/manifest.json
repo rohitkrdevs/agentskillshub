@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "ai-tool-comparison",
+  "name": "AI Tool Comparison Agent",
+  "version": "1.0.0",
+  "category": "AI Apps",
+  "description": "Compares AI products against explicit workflows, costs, and risks.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Uses browser"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

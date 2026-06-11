@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "youtube-script-writer",
+  "name": "YouTube Script Writer",
+  "version": "1.0.0",
+  "category": "Marketing",
+  "description": "Creates watchable scripts with pacing, payoff, and visual direction.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

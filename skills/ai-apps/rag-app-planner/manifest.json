@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "rag-app-planner",
+  "name": "RAG App Planner",
+  "version": "1.0.0",
+  "category": "AI Apps",
+  "description": "Plans retrieval systems around real data, latency, and quality constraints.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "react-bug-fixer",
+  "name": "React Bug Fixer",
+  "version": "1.0.0",
+  "category": "Coding",
+  "description": "Traces React failures to their root cause and produces focused patches with tests.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Writes files"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

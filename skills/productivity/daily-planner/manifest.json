@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "daily-planner",
+  "name": "Daily Planner Agent",
+  "version": "1.0.0",
+  "category": "Productivity",
+  "description": "Builds a realistic daily plan around time, energy, and commitments.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Uses email/calendar"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

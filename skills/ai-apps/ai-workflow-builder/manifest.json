@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "ai-workflow-builder",
+  "name": "AI Workflow Builder",
+  "version": "1.0.0",
+  "category": "AI Apps",
+  "description": "Designs deterministic multi-step AI workflows with checks and handoffs.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "High-risk action"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

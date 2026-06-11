@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "ai-model-photoshoot-prompt",
+  "name": "AI Model Photoshoot Prompt Agent",
+  "version": "1.0.0",
+  "category": "Design",
+  "description": "Directs consistent editorial model photography prompts.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Calls external APIs"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

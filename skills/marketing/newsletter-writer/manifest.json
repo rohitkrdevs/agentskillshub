@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "newsletter-writer",
+  "name": "Newsletter Writer",
+  "version": "1.0.0",
+  "category": "Marketing",
+  "description": "Shapes source material into a readable recurring newsletter.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

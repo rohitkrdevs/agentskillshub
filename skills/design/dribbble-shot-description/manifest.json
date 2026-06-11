@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "dribbble-shot-description",
+  "name": "Dribbble Shot Description Agent",
+  "version": "1.0.0",
+  "category": "Design",
+  "description": "Writes concise project descriptions that add useful context to design shots.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

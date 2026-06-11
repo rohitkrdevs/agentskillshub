@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "reddit-launch-post",
+  "name": "Reddit Launch Post Agent",
+  "version": "1.0.0",
+  "category": "Marketing",
+  "description": "Writes community-aware launch posts that avoid empty promotion.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Uses browser"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

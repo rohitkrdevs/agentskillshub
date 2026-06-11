@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "auth-system-builder",
+  "name": "Auth System Builder",
+  "version": "1.0.0",
+  "category": "Coding",
+  "description": "Plans and implements secure authentication flows for modern web apps.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "High-risk action"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "landing-page-generator",
+  "name": "Landing Page Generator",
+  "version": "1.0.0",
+  "category": "Coding",
+  "description": "Builds conversion-focused responsive landing pages from a product brief.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Writes files"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

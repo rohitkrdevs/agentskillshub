@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "nextjs-seo-auditor",
+  "name": "Next.js SEO Auditor",
+  "version": "1.0.0",
+  "category": "Coding",
+  "description": "Audits Next.js projects for technical SEO gaps and returns file-level fixes.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

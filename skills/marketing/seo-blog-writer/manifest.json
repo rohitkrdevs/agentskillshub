@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "seo-blog-writer",
+  "name": "SEO Blog Writer",
+  "version": "1.0.0",
+  "category": "Marketing",
+  "description": "Creates useful search-focused articles with clear intent coverage.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Uses browser"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

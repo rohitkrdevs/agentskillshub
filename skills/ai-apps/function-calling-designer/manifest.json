@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "function-calling-designer",
+  "name": "Function Calling Designer",
+  "version": "1.0.0",
+  "category": "AI Apps",
+  "description": "Designs clear tool schemas and robust tool-use loops.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "High-risk action"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

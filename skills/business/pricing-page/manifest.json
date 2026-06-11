@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "pricing-page",
+  "name": "Pricing Page Agent",
+  "version": "1.0.0",
+  "category": "Business",
+  "description": "Designs understandable SaaS packaging and pricing-page content.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

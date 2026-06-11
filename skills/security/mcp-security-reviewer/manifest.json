@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "mcp-security-reviewer",
+  "name": "MCP Security Reviewer",
+  "version": "1.0.0",
+  "category": "Security",
+  "description": "Reviews MCP tools for privilege, trust-boundary, and action risks.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "High-risk action"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

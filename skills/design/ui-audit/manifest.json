@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "ui-audit",
+  "name": "UI Audit Agent",
+  "version": "1.0.0",
+  "category": "Design",
+  "description": "Reviews interfaces for hierarchy, consistency, accessibility, and usability.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

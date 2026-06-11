@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "competitor-research",
+  "name": "Competitor Research Agent",
+  "version": "1.0.0",
+  "category": "Business",
+  "description": "Produces sourced competitor maps and actionable differentiation.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Uses browser"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "brand-identity",
+  "name": "Brand Identity Agent",
+  "version": "1.0.0",
+  "category": "Design",
+  "description": "Builds an actionable brand foundation and visual direction brief.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

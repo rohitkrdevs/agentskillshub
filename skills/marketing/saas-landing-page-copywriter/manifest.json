@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "saas-landing-page-copywriter",
+  "name": "SaaS Landing Page Copywriter",
+  "version": "1.0.0",
+  "category": "Marketing",
+  "description": "Writes sharp landing-page copy around audience pain and product proof.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "image-generation-prompt",
+  "name": "Image Generation Prompt Agent",
+  "version": "1.0.0",
+  "category": "AI Apps",
+  "description": "Creates production-grade image prompts with art direction and constraints.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Calls external APIs"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

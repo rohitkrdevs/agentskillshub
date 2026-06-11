@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "linkedin-post-writer",
+  "name": "LinkedIn Post Writer",
+  "version": "1.0.0",
+  "category": "Marketing",
+  "description": "Writes credible LinkedIn posts from real experience and source material.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

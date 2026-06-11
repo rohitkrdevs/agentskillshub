@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "website-mockup-prompt",
+  "name": "Website Mockup Prompt Agent",
+  "version": "1.0.0",
+  "category": "Design",
+  "description": "Creates detailed prompts for coherent website design concepts.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Calls external APIs"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

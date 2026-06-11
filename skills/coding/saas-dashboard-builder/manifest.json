@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "saas-dashboard-builder",
+  "name": "SaaS Dashboard Builder",
+  "version": "1.0.0",
+  "category": "Coding",
+  "description": "Creates production-oriented dashboard interfaces with meaningful states.",
+  "difficulty": "Advanced",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Writes files"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

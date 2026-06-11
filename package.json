@@ -1,0 +1,36 @@
+{
+  "name": "agentskill",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "agentskill": "./cli/index.mjs"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "generate": "node scripts/generate-content.mjs",
+    "validate": "node scripts/validate-catalog.mjs",
+    "check": "npm run generate && npm run validate && npm run lint && npm run build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@eslint/js": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-plugin-react-hooks": "latest",
+    "eslint-plugin-react-refresh": "latest",
+    "globals": "latest",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "latest"
+  }
+}

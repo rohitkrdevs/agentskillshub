@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "email-reply",
+  "name": "Email Reply Agent",
+  "version": "1.0.0",
+  "category": "Productivity",
+  "description": "Drafts context-aware replies that are clear, brief, and appropriately toned.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Uses email/calendar"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

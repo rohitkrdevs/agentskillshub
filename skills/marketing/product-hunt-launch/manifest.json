@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "product-hunt-launch",
+  "name": "Product Hunt Launch Agent",
+  "version": "1.0.0",
+  "category": "Marketing",
+  "description": "Builds a coherent Product Hunt launch package and response plan.",
+  "difficulty": "Intermediate",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}

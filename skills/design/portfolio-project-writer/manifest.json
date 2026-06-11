@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "portfolio-project-writer",
+  "name": "Portfolio Project Writer",
+  "version": "1.0.0",
+  "category": "Design",
+  "description": "Writes honest portfolio case studies that explain judgment and impact.",
+  "difficulty": "Beginner",
+  "compatibility": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "safety": [
+    "Read-only"
+  ],
+  "files": [
+    "SKILL.md",
+    "examples.md"
+  ]
+}
